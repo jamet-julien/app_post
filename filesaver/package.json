@@ -1,0 +1,12 @@
+{
+  "name"            : "filesaver",
+  "version"         : "",
+  "description"     : "",
+  "main"            : "index.js",
+  "bin"             : {},
+  "scripts"         : {},
+  "author"          : "",
+  "license"         : "",
+  "devDependencies" : {},
+  "dependencies"    : {}
+}

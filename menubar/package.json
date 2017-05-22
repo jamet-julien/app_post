@@ -1,0 +1,18 @@
+{
+  "name": "menubar",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "post": "cli.js"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "",
+  "devDependencies": {},
+  "dependencies": {
+    "electron-positioner": "^3.0.0",
+    "extend": "^3.0.0",
+    "minimist": "^1.2.0"
+  }
+}
